@@ -11,3 +11,14 @@ Outside of school, I watch all sports but my favorite is Football. My favorite t
 My family is important to me and we are very loving. I have 2 siblings, a brother and sister, and I am the oldest. 
 
 My father works as an electrician and my mom stays and cares for my siblings. My younger brother goes to the Ashfield Middle School and plays baseball. My sister goes to the Baker Elementary School, does dance and plays the saxophone.
+
+# Skills
+- Good at solving math equations
+- Essay writer
+- Number 1 in Middle school science fair
+
+# Hobbies
+- Swimming 
+- Football 
+- Going to School
+- Basketball
