@@ -2,6 +2,8 @@
 - **Name**: Damien Mann
 - **Grade**: 10th grade
 
+![y] (./Actually Me)
+
 # Summary
 Hello, I am Damien Mann and I am a 10th grade student at Brockton High School. 
 
