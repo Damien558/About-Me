@@ -2,7 +2,7 @@
 - **Name**: Damien Mann
 - **Grade**: 10th grade
 
-![y] (./Actually Me)
+![Image of football](https://timedotcom.files.wordpress.com/2019/01/football-shape-nfl-superbowl.jpg)
 
 # Summary
 Hello, I am Damien Mann and I am a 10th grade student at Brockton High School. 
